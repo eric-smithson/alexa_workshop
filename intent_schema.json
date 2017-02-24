@@ -1,0 +1,23 @@
+{
+  "intents": [
+    {
+      "intent": "GetNewRapIntent"
+    },
+    {
+      "intent": "GetRapFromArtistIntent",
+      "slots":[
+          {
+              "name" : "Artist",
+              "type" : "LIST_OF_ARTISTS"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
+

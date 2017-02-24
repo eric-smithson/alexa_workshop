@@ -1,0 +1,22 @@
+GetNewRapIntent a rap
+GetNewRapIntent a rhyme
+GetNewRapIntent a song
+GetNewRapIntent rap
+GetNewRapIntent go
+GetNewRapIntent rhyme
+GetNewRapIntent song
+GetNewRapIntent give me a rhyme
+GetNewRapIntent give me a rap
+GetNewRapIntent give me a song
+GetNewRapIntent give me something
+GetNewRapIntent get me a rap
+GetNewRapIntent get me a rhyme
+GetNewRapIntent get me a song
+GetRapFromArtistIntent {Artist}
+GetRapFromArtistIntent rap {Artist}
+GetRapFromArtistIntent get a rap from {Artist}
+GetRapFromArtistIntent drop a beat by {Artist}
+GetRapFromArtistIntent play {Artist}
+GetRapFromArtistIntent play some {Artist}
+GetRapFromArtistIntent get me a rap from {Artist}
+GetRapFromArtistIntent drop a rhyme by {Artist}
